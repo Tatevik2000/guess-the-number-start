@@ -14,7 +14,6 @@ print(
 )
 level = input("Choose a difficulty. Type 'easy' or 'hard': ")
 num = random.randint(0, 100)
-print(num)
 game_over = True
 
 
